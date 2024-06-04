@@ -45,6 +45,9 @@ Busca en Internet información en la página oficial de *Microsoft* sobre las di
 
 En VirtualBox cuando creamos una máquina virtual para Windows 10 directamente nos sugiere que dimensionemos el disco duro para 50 Gigas. Sin embargo no es eso lo que nos piden de requisitos mínimos en Microsoft. ¿Qué crees que ocurrirá si instalamos siguiendo los requisitos mínimos de Microsoft?
 
+"Instalar Windows 10 en una máquina virtual con un disco duro de solo 50 GB, como sugiere VirtualBox, puede causar algunos problemas. Aunque esto cumple con los requisitos mínimos de Microsoft, es probable que experimentes lentitud, problemas de almacenamiento y dificultades para instalar actualizaciones. Un disco duro más grande sería más adecuado para proporcionar un rendimiento óptimo y evitar limitaciones de espacio."
+
+
 # Tarea: Instalacion de Windows 10
 
 ## Ejercicio
