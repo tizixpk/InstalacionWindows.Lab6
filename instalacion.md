@@ -1,4 +1,4 @@
-
+![image](https://github.com/tizixpk/InstalacionWindows.Lab6/assets/170434202/d4ae9c74-db7f-4364-99df-a5480f08b000)
 # Tarea: Requisitos Sistemas Windows
 
 ## Ejercicio 1
@@ -53,3 +53,11 @@ En VirtualBox cuando creamos una máquina virtual para Windows 10 directamente n
 ## Ejercicio
 
 Descarga una imagen ISO de instalación de Windows 10, ya sea mediante las versiones de evaluación o mediante OnTheHub e instalalá en una máquina virtual. Prepara la máquina para que cumpla todos los requisitos. Durante la instalación realiza capturas de las pantallas que consideres más importantes. Documenta el proceso de manera detallada.
+
+![image](https://github.com/tizixpk/InstalacionWindows.Lab6/assets/170434202/57a0eeff-7c3c-4926-8235-c462094fcb90)
+**Este paso me parece muy importante ya que es donde la ISO recompila los datos para la instalacion y sus funciones**
+
+![image](https://github.com/tizixpk/InstalacionWindows.Lab6/assets/170434202/4362849b-0993-44a9-bef8-afedcc89c14c)
+**Aca ya se instalo y nos encontramos en el escritorio**
+
+
