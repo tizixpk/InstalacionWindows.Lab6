@@ -1,6 +1,7 @@
 
 # Tarea: Crear punto de restauración
-\ 
+Repositorio Original:
+https://github.com/cersosimovicente/Laboratorio-de-sistemas-operativos-4-/blob/main/windows/CrearPuntoRestauracion_072637.png
 
 ## Ejercicio 1
 
