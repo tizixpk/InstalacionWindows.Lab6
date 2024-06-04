@@ -1,5 +1,6 @@
-![image](https://github.com/tizixpk/InstalacionWindows.Lab6/assets/170434202/d4ae9c74-db7f-4364-99df-a5480f08b000)
 # Tarea: Requisitos Sistemas Windows
+Repositorio Original: 
+https://github.com/cersosimovicente/Laboratorio-de-sistemas-operativos-4-/blob/main/windows/instalacion.md
 
 ## Ejercicio 1
 
